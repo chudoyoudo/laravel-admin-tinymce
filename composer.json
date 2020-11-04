@@ -1,9 +1,9 @@
 {
-    "name": "chudoyoudo/laravel-admin-tinymce-editor",
+    "name": "chudoyoudo/laravel-admin-tinymce",
     "description": "Integrate tmeditor into laravel-admin",
     "type": "library",
     "license": "MIT",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "minimum-stability":"stable",
     "authors": [
         {
