@@ -5,7 +5,7 @@ This is a laravel-admin extension that integrates TinyMCE into the laravel-admin
 
 Installation
 ```
-composer require chudoyoudo/laravel-admin-tinymce-editor
+composer require chudoyoudo/laravel-admin-tinymce
 ```
 Then
 ```
